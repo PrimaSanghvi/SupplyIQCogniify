@@ -1,4 +1,4 @@
-import { LayoutDashboard, Network, GitCompare, Sliders, ArrowRightLeft, Activity, ShieldAlert, MessageCircle, BookOpen, Zap } from 'lucide-react';
+import { LayoutDashboard, Network, GitCompare, Sliders, ArrowRightLeft, Activity, ShieldAlert, MessageCircle, BookOpen } from 'lucide-react';
 
 type Page = 'dashboard' | 'network' | 'scenarios' | 'optimizer' | 'movements' | 'simulation' | 'risk' | 'chat' | 'glossary';
 
