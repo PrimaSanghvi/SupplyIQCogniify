@@ -23,7 +23,7 @@ export default function Sidebar({ activePage, onNavigate }: SidebarProps) {
       <div className="flex items-center gap-3 px-4 h-14 border-b border-slate-800 shrink-0 mb-6">
         <img alt="Persistent Logo" className="w-8 h-8 object-contain" src="/logo.png" />
         <div className="flex flex-col">
-          <span className="text-sm font-bold tracking-tight leading-none text-[#ee7d2f]">PERSISTENT</span>
+          <span className="text-sm font-bold tracking-tight leading-none text-[#4f46e5]">COGNIIFY</span>
           <span className="text-[9px] text-slate-500 font-semibold tracking-wider mt-0.5 uppercase">SupplyMind AI</span>
         </div>
       </div>
